@@ -47,3 +47,17 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
   
 4. Layout Structure:
    - Defines the arrangement of elements on the page.
+
+
+# Types of Wireframes.
+#
+
+# Low Fidelity.
+
+- Low-Fidelity Wireframes
+   - Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+   - It is used at the beginning of the project during brainstorming between developers.
+  
+- High-Fidelity
+   - More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+   - It is used as the final product.
