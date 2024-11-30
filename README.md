@@ -61,3 +61,7 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
 - High-Fidelity
    - More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
    - It is used as the final product.
+
+# Which Type Is Used?
+
+High fidelity because of the details and visuals present. It used colors, images, fonts and every component is in place.
