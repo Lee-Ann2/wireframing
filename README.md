@@ -31,3 +31,19 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
   
 8. Saves Time and Resources:
    - Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
+  
+
+
+# Key Elements in a Wireframe.
+
+1. Content Placement:
+   -  Indicates where text, images, and other content will be positioned.
+  
+2. Navigation:
+   - Shows how users will move through the site or application.
+
+3. Functionality:
+   - Outlines key functionalities and interactions.
+  
+4. Layout Structure:
+   - Defines the arrangement of elements on the page.
