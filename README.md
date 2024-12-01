@@ -65,3 +65,16 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
 # Which Type Is Used?
 
 High fidelity because of the details and visuals present. It used colors, images, fonts and every component is in place.
+
+# Wireframing tools
+- There are many tools for wireframing such as:
+  1. Adobe XD
+  2. sketch
+  3. Figma
+  4. Axure
+ 
+It is recommended for developers to use Figma as it is free and easy to use. It offers a minimalist designs for those who want to simply the process.
+It offers a wide range of resources like dev mode where developers can prototype whilest they are coding. It makes it easier for developers to collaborat.
+
+
+
