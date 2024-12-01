@@ -76,5 +76,16 @@ High fidelity because of the details and visuals present. It used colors, images
 It is recommended for developers to use Figma as it is free and easy to use. It offers a minimalist designs for those who want to simply the process.
 It offers a wide range of resources like dev mode where developers can prototype whilest they are coding. It makes it easier for developers to collaborat.
 
+# Benefits Of Wireframing 
 
+- Clear roadmap: 
+  - Wireframes provide a clear roadmap for design and development by establishing the basic structure of a product before detailed design and development. 
+- Improved communication: 
+  - Wireframes help for seamless cooperation and enhanced communication because all the product stakeholders, designers, and developers have a clear understanding of the project's direction.
+- Save resources:
+  - Wireframing helps to save up on resources.
+- Share and collaborate:
+  - Digital wireframes are easier to share and allow you to collaborate. 
+- Evaluate effectiveness:
+  - Wireframes allow project team members and clients to evaluate overall effectiveness of the page layout against usability best practices. 
 
