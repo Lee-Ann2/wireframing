@@ -88,4 +88,6 @@ It offers a wide range of resources like dev mode where developers can prototype
   - Digital wireframes are easier to share and allow you to collaborate. 
 - Evaluate effectiveness:
   - Wireframes allow project team members and clients to evaluate overall effectiveness of the page layout against usability best practices. 
+  
+
 
